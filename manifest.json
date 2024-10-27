@@ -1,0 +1,16 @@
+{
+  "name": "LegoTransport Announcements",
+  "short_name": "LT Announcements",
+  "description": "Announcements for LegoTransport.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "1087x1087"
+    }
+  ]
+}
